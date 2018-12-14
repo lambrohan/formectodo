@@ -1,4 +1,5 @@
 # formec-work
+Web app using Vue.js and Firebase
 
 ## Project setup
 ```
