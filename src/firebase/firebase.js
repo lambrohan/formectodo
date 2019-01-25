@@ -4,7 +4,7 @@
  import 'firebase/auth';
 
  var config = {
-  apiKey: "AIzaSyDKP91IVddYQ6JWswGjSs34zjSVDBfQz_I",
+  apiKey: "xxxxxxxxxxxxxxxxxx",
   authDomain: "formec-work.firebaseapp.com",
   databaseURL: "https://formec-work.firebaseio.com",
   projectId: "formec-work",
